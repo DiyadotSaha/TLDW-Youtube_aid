@@ -38,6 +38,10 @@ st.title("YouTube Video Summarizer")
 url = st.text_input("Enter YouTube URL")
 summary_type = st.selectbox("Select Summary Type", ["Extractive", "Abstractive"])
 
+# Show the video player above the button
+if url:
+    st.video(url)
+
 if st.button("Summarize"):
     if url:
         with st.spinner("Downloading audio..."):
