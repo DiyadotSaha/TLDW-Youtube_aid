@@ -1,7 +1,7 @@
 # TL;DW
 Too Long; Didn't watch is an AI-powered Streamlit app that helps users digest long-form educational YouTube videos by summarizing the content and generating an interactive quiz from the transcript.  
 
-🔗 **Live Demo:** [https://youtu.be/VYV_lgn4dSI?si=6VKQVNDe3Yg18xCF](https://youtu.be/VYV_lgn4dSI?si=6VKQVNDe3Yg18xCF)
+**Watch the Live Demo:** [https://youtu.be/VYV_lgn4dSI?si=6VKQVNDe3Yg18xCF](https://youtu.be/VYV_lgn4dSI?si=6VKQVNDe3Yg18xCF)
 
 <p align="center">
   <img src="quick_demo.gif" alt="App Demo" />
