@@ -3,7 +3,7 @@ Too Long; Didn't watch is an AI-powered Streamlit app that helps users digest lo
 
 🔗 **Live Demo:** [https://youtu.be/VYV_lgn4dSI?si=6VKQVNDe3Yg18xCF](https://youtu.be/VYV_lgn4dSI?si=6VKQVNDe3Yg18xCF)
 
-![Screenshot of YouTube Summarizer Quiz App](https://via.placeholder.com/1000x600 "Interactive Quiz Generator App")
+![Screenshot of YouTube Summarizer Quiz App](https://github.com/DiyadotSaha/YoututbeSummarization/blob/main/0415.gif)
 
 ---
 
