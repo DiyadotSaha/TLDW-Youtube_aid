@@ -23,7 +23,7 @@ The frontend is built using **Streamlit**, providing a clean, responsive interfa
 ---
 ## Optimizations
 
-- Used `st.session_state` to persist user answers and prevent data loss between reruns.
+- Used streamlit sessions to persist user answers and prevent data loss between reruns.
 - Prevented radio buttons from pre-selecting answers with `index=None`, forcing user engagement.
 - Modularized Gemini prompt + parsing logic for future extensions like flashcard generation or explanations.
 - Cached transcription and summarization logic for improved performance.
