@@ -10,7 +10,7 @@ from gtts import gTTS
 
 # --- Configure Gemini and Youtube build---
 genai.configure(api_key=MY_KEY)
-youtube = build("youtube", "v3", developerKey="AIzaSyD9tRfLCKPB-BZSKUI1VLIzOrskC7uIjfY")
+youtube = build("youtube", "v3", developerKey=DEV_KEY)
 
 # --- Session state defaults ---
 if "transcription" not in st.session_state:
