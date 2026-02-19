@@ -9,7 +9,7 @@ from googleapiclient.discovery import build
 from gtts import gTTS
 
 # --- Configure Gemini and Youtube build---
-genai.configure(api_key="AIzaSyAKJZ7W-MlDdZrboc5oYg4137MMt057qQM")
+genai.configure(api_key=MY_KEY)
 youtube = build("youtube", "v3", developerKey="AIzaSyD9tRfLCKPB-BZSKUI1VLIzOrskC7uIjfY")
 
 # --- Session state defaults ---
